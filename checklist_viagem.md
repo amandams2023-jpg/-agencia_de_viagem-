@@ -27,7 +27,8 @@
 - [x] Baixar mapas sobre viagem
 - [x] Confirmar check-in no hotel
 - [x] Checar previsão do tempo
-# ✅ Checklist de Viagem - Viijando
+
+#  Checklist de Viagem - ViajaBem
 
 ## Documentos Essenciais
 - [ ] Passaporte ou identidade
@@ -89,3 +90,6 @@
 - [ ] Baixar apps úteis
 - [ ] Conferir clima do destino
 - [ ] Testar eletrônicos
+
+## Tudo Pronto 
+#Bom embarque e ótima viagem!
